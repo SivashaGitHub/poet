@@ -1,0 +1,7 @@
+README.rst
+setup.py
+poet/__init__.py
+poet.egg-info/PKG-INFO
+poet.egg-info/SOURCES.txt
+poet.egg-info/dependency_links.txt
+poet.egg-info/top_level.txt
